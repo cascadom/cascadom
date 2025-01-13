@@ -1,6 +1,6 @@
 # Hi there, I'm cascadom! 👋
 
-Welcome to my GitHub profile dedicated to [Cascades](https://github.com/cascades-cti) ! I'm a passionate software developer with an interest in web development and _others_. Here, you'll find a collection of my projects, contributions, and collaborations, if they are not private
+Welcome to my GitHub profile dedicated to [Cascades](https://github.com/cascades-cti) ! I'm a passionate software developer with an interest in web development and _others_. Here, you'll find a collection of my projects, contributions, and collaborations, if they are not private.
 
 ## 🛠️ Technologies & Tools
 
